@@ -1,4 +1,4 @@
-# Ligar led em arduino 
+# Ligar Led no Arduino 
 
 Componentes:
 Led = 220 ohms
